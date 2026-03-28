@@ -29,7 +29,7 @@ model = load_model()
 # HEADER
 # -------------------------------
 st.markdown("""
-# 👁️ Mathematical Approaches to Retinal Analysis  
+# 👁️ Retinal Analysis - Glaucoma Detection 
 ### Turning retinal images into meaningful insight
 """)
 
